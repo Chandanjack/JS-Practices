@@ -10,7 +10,7 @@ console.log("Chandan")
 let name = "Chandan"
 let age = 24
 let isLoggedId = false
-
+//-----Datatpye-----
 // number => 2 to power 53
 // bigint
 // string => ""
