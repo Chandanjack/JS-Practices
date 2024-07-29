@@ -11,8 +11,8 @@ accountEmail ="cha@js.com"
 accountPassword ="5555555"
 accountCity = "Delhi"
 
-/*
-Prefer not to use var
+
+/* Prefer not to use var
 Because of issue in block scope and functional scope
 */
 
